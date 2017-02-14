@@ -1,0 +1,20 @@
+{
+  "name": "embeddedServiceConfigurator",
+  "authors": [
+    "bastiW <s.weiss@bamoo.de>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "custom-elements": "webcomponents/custom-elements#^1.0.0-alpha.3"
+  }
+}
